@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.s-card{
+  margin:20px
+}
+
+.s-card-image{
+  border-radius:10px;
+  width: 300px;
+  height:300px;
+  box-shadow:  0px 0px  3px blue;
+}
+
+.s-card-info{
+  font-size:20px;
+  min-height:100px;
+}
+
+.s-card-title{
+  font-size:24px;
+  margin:0px;
+}
+
+.s-card-sub-title{
+  font-size:16px;
+  margin:0px;
+}
+
+.my-Button{ 
+  margin:20px;
+  border-radius:10px;
+  display:flex;
+  justify-content:center;
+ 
+  
+  
+
+}
